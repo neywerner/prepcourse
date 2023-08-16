@@ -1,2 +1,1 @@
-# prepcourse
-repositorio de prueba
+prueba de clonacion a mi escritorio local
